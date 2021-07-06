@@ -44,7 +44,7 @@ h1{
 #recipies-container{
     padding: 100px 60px;
 }
-.Recipes-table{
+.food-item{
     width: 30%;
     background-color:#fff;
     padding:20px;
@@ -53,16 +53,16 @@ h1{
     margin-left:2%;
     margin-right:2%;
 }
-.Recipes-table img{
+.food-item img{
     width:100%;
     border-radius: 20px;
 }
-.Recipes-table h3{
+.food-item h3{
     font-size: 30px;
     text-align: center;
     color: gray;
 }
-.Recipes-table p{
+.food-item p{
     font-size: 20px;
     color: gray;
     text-align: center;
